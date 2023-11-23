@@ -15,7 +15,7 @@
 - Version Control: Git
 
 - 🔭 I’m currently working on Laravel project
-- 🌱 I’m currently learning : Flutter
+- 🌱 I’m currently learning : node.js
 
 - 🌐 I'm dedicated to staying up-to-date with the latest industry trends and best practices, ensuring that the solutions I deliver are not only efficient but also cutting-edge.
 
